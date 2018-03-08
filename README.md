@@ -19,8 +19,3 @@ __IMPORTANTE__: só modifique o arquivo _tm.c_.
 
 * Implementação (*tm.c*)
 
-## Cronograma
-
-* Envio da versão final: _20/10/2017_ 
-
-
